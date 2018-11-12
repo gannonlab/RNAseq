@@ -15,6 +15,6 @@
 ##### Analysis
 (1). transfer the results to accre or your computer, eg: <br>
 rsync -arv  --progress  /Volumes/2234/ &nbsp;&nbsp; zhux12@login7.accre.vanderbilt.edu:/scratch/zhux12/newData <br>
-(2). check the sequencing quality, submitting:
+(2). check the sequencing quality, submitting:fastqc_check.slurm
 
 
