@@ -18,3 +18,10 @@ rsync -arv  --progress  /Volumes/2234/ &nbsp;&nbsp; zhux12@login7.accre.vanderbi
 (2). check the sequencing quality, submitting:fastqc_check.slurm
 
 
+### Userful links
+1. when you do not have your Graphic user interface: &nbsp;&nbsp; http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/ 
+
+2.A survey of best practices for RNA-seq data analysis &nbsp;&nbsp; https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8 
+
+
+
